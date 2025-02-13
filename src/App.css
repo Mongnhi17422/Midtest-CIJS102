@@ -1,0 +1,10 @@
+.movie-card:hover {
+    cursor: pointer;
+}
+
+
+.new-release p, 
+.new-release h3 {
+    position: relative;
+    top: 10px;
+}
